@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/textViewItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textColor="@color/red_text"
+        android:background="@color/light_background"
+        android:layout_marginTop="10dp"
+        android:layout_margin="10dp"
+        android:textSize="17sp"
+        android:padding="5dp"
+        android:fontFamily="@font/fira_code"
+
+        android:gravity="center"/>
