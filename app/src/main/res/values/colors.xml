@@ -8,4 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="placeholder_text">#CFFFDC</color>
+    <color name="toast_message">#FF85B3</color>
 </resources>

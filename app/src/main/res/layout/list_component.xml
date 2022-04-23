@@ -12,5 +12,5 @@
         android:textSize="17sp"
         android:padding="5dp"
         android:fontFamily="@font/fira_code"
-
+        android:layout_marginVertical="10dp"
         android:gravity="center"/>
